@@ -1,0 +1,9 @@
+Calculate the running sum
+
+int number=0
+int sum=0
+While number is greater than or equal to zero
+	sum=sum+number
+end While
+print sum	
+	
