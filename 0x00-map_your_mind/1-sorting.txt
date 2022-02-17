@@ -1,0 +1,14 @@
+Reads in three numbers and writed them all in sorted order
+
+x=INPUT 1
+y=INPUT 2
+x=INPUT 3
+array=empty array
+push x to array
+push y to array
+push z to array
+sort array
+FOR k=1
+increment k by1
+stop k at k=3
+print sort array
